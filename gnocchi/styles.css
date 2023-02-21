@@ -1,0 +1,38 @@
+.rezept-bild {
+    width: 300px;
+    height: auto;
+}
+
+.title {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+.hintergrund {
+    background-color: rgba(85, 52, 9, 0.397);
+    color: white;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: "Comic Sans", Arial, "Times New Roman"; 
+}
+
+.special {
+    color: red;
+    font-size: 36px;
+}
+
+.invite-font {
+    font-weight: bold;
+    font-size: 34px;
+    font-style: oblique;
+}
